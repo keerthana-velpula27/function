@@ -1,5 +1,6 @@
 import Header from "../src/components/Header";
 import MyComponent from "./components/Card";
+import './App.css';
 function App() {
   return (
     <>
